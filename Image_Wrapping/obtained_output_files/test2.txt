@@ -1,0 +1,20 @@
+# image is image768.ppm
+
+(if you want to confirm just uncomment DEBUG : sections in twist_transformation_parallel.c)
+Elaped Time for Sequential Twist Linear Transformation : 0.14064717292786
+No of threads would have been created = 1
+Elaped Time for Parallel Twist Linear Transformation : 0.1495311400294
+No of threads would have been created = 2
+Elaped Time for Parallel Twist Linear Transformation : 0.07419760525227
+No of threads would have been created = 3
+Elaped Time for Parallel Twist Linear Transformation : 0.07920435722917
+No of threads would have been created = 4
+Elaped Time for Parallel Twist Linear Transformation : 0.05756133515388
+No of threads would have been created = 5
+Elaped Time for Parallel Twist Linear Transformation : 0.04833338689059
+No of threads would have been created = 6
+Elaped Time for Parallel Twist Linear Transformation : 0.04485606588423
+No of threads would have been created = 7
+Elaped Time for Parallel Twist Linear Transformation : 0.03666089801118
+No of threads would have been created = 8
+Elaped Time for Parallel Twist Linear Transformation : 0.03428754489869

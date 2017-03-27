@@ -1,0 +1,20 @@
+# image is lena512.ppm
+
+(if you want to confirm just uncomment DEBUG : sections in twist_transformation_parallel.c)
+Elapsed Time for Sequential Twist Linear Transformation : 0.05212747999758
+No of threads would have been created = 1
+Elaped Time for Parallel Twist Linear Transformation : 0.05386578399703
+No of threads would have been created = 2
+Elapsed Time for Parallel Twist Linear Transformation : 0.02905497399843
+No of threads would have been created = 3
+Elapsed Time for Parallel Twist Linear Transformation : 0.02611558200078
+No of threads would have been created = 4
+Elapsed Time for Parallel Twist Linear Transformation : 0.02313229600259
+No of threads would have been created = 5
+Elapsed Time for Parallel Twist Linear Transformation : 0.02182256200103
+No of threads would have been created = 6
+Elapsed Time for Parallel Twist Linear Transformation : 0.02145901999858
+No of threads would have been created = 7
+Elapsed Time for Parallel Twist Linear Transformation : 0.02123526600190
+No of threads would have been created = 8
+Elapsed Time for Parallel Twist Linear Transformation : 0.02193988300132

@@ -1,0 +1,20 @@
+# Ouput of halfWidth = 5. 
+
+(if you want to confirm just uncomment DEBUG : sections in image_filtering_parallel.c)
+Elapsed Time for Sequential Filtering algorithm : 27.54311384307221
+No of threads would have been created = 1
+Elapsed Time for Parallel Filtering algorithm : 27.64998954720795
+No of threads would have been created = 2
+Elapsed Time for Parallel Filtering algorithm : 14.38844378478825
+No of threads would have been created = 3
+Elapsed Time for Parallel Filtering algorithm : 9.54328518686816
+No of threads would have been created = 4
+Elapsed Time for Parallel Filtering algorithm : 7.18639095267281
+No of threads would have been created = 5
+Elapsed Time for Parallel Filtering algorithm : 5.77819171408191
+No of threads would have been created = 6
+Elapsed Time for Parallel Filtering algorithm : 5.07702772039920
+No of threads would have been created = 7
+Elapsed Time for Parallel Filtering algorithm : 4.43003527121618
+No of threads would have been created = 8
+Elapsed Time for Parallel Filtering algorithm : 3.88289800891653
